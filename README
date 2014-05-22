@@ -1,0 +1,15 @@
+To use:
+
+$ make
+$ sudo make install
+
+Go into settings->network
+	click on your current network interface (green dot)
+	click advanced
+	go to proxies->socks
+		enter 127.0.0.1 port 1080
+		click OK
+		click Apply
+
+Test by visiting start.unet in your web browser. It should be the
+same as 97.85.72.250 (this will change in the future)

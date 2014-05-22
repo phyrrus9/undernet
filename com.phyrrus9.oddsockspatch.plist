@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Label</key>
+		<string>com.phyrrus9.oddsockspatch</string>
+		<key>ProgramArguments</key>
+		<array>
+			<string>/usr/local/undernet/exec.sh</string>
+			<string>/usr/local/undernet</string>
+			<string>/usr/local/undernet/oddsock</string>
+		</array>
+		<key>KeepAlive</key>
+			<true/>
+	</dict>
+</plist>

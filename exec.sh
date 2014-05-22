@@ -1,0 +1,2 @@
+#!/bin/sh
+DYLD_FORCE_FLAT_NAMESPACE=1 DYLD_INSERT_LIBRARIES=$1/undernet.dylib $2
